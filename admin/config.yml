@@ -2,13 +2,13 @@ backend:
   name: github
   repo: kaiablk/FitBook # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: fitrecipies.netlify.app #Your site on netlify
+  site_domain: kiasfitrecipes.netlify.app #Your site on netlify
   use_graphql: true
 
 # publish_mode: editorial_workflow
 # show_preview_links: true
 display_url: https://fitrecipies.netlify.app
-logo_url: https://yoursite.netlify.app/uploads/editor.jpg
+logo_url: https://kiasfitrecipes.netlify.app/uploads/editor.jpg
 
 # Do NOT edit below this line unless you want to change the home page
 
