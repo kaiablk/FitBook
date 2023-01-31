@@ -1,7 +1,7 @@
 
 # SITE CONFIGURATION
-url: "https://yoursite.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+url: "https://fitrecipies.netlify.app"   #change this to yours
+repository: FitBook/yourrepository
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
 editbutton: false # you can navigate to edit your site by going to https://yoursite.netlify.app/admin
