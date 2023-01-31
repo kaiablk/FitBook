@@ -1,6 +1,6 @@
 
 # SITE CONFIGURATION
-url: "https://fitrecipies.netlify.app"   #change this to yours
+url: "https://kiasfitrecipes.netlify.app"   #change this to yours
 repository: FitBook/yourrepository
 title: Your recipe collection
 recipemenu: false # you can change to true and a menu of all recipes will appear
@@ -12,7 +12,7 @@ searchbutton: false # you can have a search feature by adding this button to the
 
 # change the following to your name or site name
 footer_text:
-  "Fit Recipies"
+  "Kia's Fit Recipies"
 
 # DO NOT EDIT BELOW THIS LINE
 
