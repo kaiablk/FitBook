@@ -1,46 +1,37 @@
 ---
-layout: recipe
-title: Some recipe
+title: One-pan quinoa and vegetable dish
 date: 2022-10-19
-published: true
 order: 2
+layout: recipe
+published: true
 ---
-Aute velit minim ad ut deserunt ipsum eiusmod. Laborum nisi ex qui exercitation elit dolor consectetur. Ullamco ex eiusmod ad dolor nisi adipisicing est esse. Veniam nostrud do laboris id est nulla qui nulla. Lorem velit nulla in tempor nisi laboris. Dolor culpa mollit elit anim minim Lorem.
+Are you tired of recipes that take ages to prepare? We've all been there. Life can get busy, and sometimes it's just not possible to spend a lot of time cooking. That's where my one-pan quinoa and vegetable meal comes in! It's a perfect solution for a quick and healthy dish that only takes 20 minutes to prepare. With only a handful of ingredients and one pan, you'll have a delicious and nutritious meal. So why not try something new today and give this recipe a go? Trust me, your taste buds (and your schedule) will thank you!
 
-![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/joseph-gonzalez-zcUgjyqEwe8-unsplash.jpg "Photo by Joseph Smart")
-
+![Delicious Plate of Toast, Blueberries and Bananas, covered in sticky maple syrup](../uploads/quinua.png "Photo by Joseph Smart")
 
 ## Ingredients
 
-- 1 kg something or something else
-- 160 ml something or something else
-- ½ large something or something else
-- 450 grams something or something else
-- 1 glass white wine 
-- 350 grams fresh something or something else,
-- 1400 grams something or something else, drained of some of their juice and chopped
-- teaspoon ground something or something else
-- teaspoon ground something or something else
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped something
-- 80 grams something
-- 80 grams something else
-- 600 ml warm something
-- 2 egg yolks
-- 4 tablespoons toasted something or something else
-
+* 1/2 cup quinoa
+* 1/4 cup water
+* 1/4 cup chopped vegetables of your choice (e.g. bell pepper, zucchini, onion, carrot)
+* 1/2 teaspoon garlic powder
+* 1/3 teaspoon chilli powder
+* Salt and pepper
+* 1 teaspoon of olive oil
+* Optional toppings: fresh basil, sliced avocado, crumbled feta cheese
 
 ## Method
 
-Occaecat nulla proident do aute non amet cillum et enim. Non in commodo consequat minim. Id excepteur adipisicing cillum minim Lorem anim est eiusmod incididunt. Consectetur nostrud pariatur amet enim dolore labore deserunt tempor magna fugiat dolor veniam anim. Ut ex sit ullamco ullamco magna aliqua cupidatat ullamco adipisicing tempor. Cupidatat fugiat in consectetur quis sunt laboris qui veniam sunt id deserunt minim.
+1. Use a fine-mesh strainer to rinse the quinoa, then set it aside. 
+2. In a nonstick pan, heat the olive oil over medium heat. 
+3. After adding the vegetables, simmer them for 5-7 minutes, or until they are cooked. 
+4. Add the washed quinoa to the pan and whisk in the water, salt, pepper, garlic powder, and chilli powder. 
+5. Bring the mixture to a boil, lower the heat to a simmer, cover the pan, and cook the quinoa for 15 minutes, or until the water is absorbed. 
+6. Turn off the heat and let the quinoa lie in the pan for five minutes to fluff up. 
+7. Arrange the quinoa and vegetables in a bowl and top with whichever garnishes you choose.
+8. Enjoy your delicious and nutritious one-pan meal!
 
-Laborum dolore minim veniam excepteur aliquip aliqua mollit minim id exercitation ipsum. Quis sint qui enim labore amet irure culpa eiusmod ullamco amet minim aliquip ut eiusmod. Qui Lorem dolore labore esse reprehenderit cillum reprehenderit.
 
-Do elit laboris irure pariatur nostrud officia. Proident anim amet officia irure occaecat aliqua nisi ex. Non minim excepteur consectetur mollit aliquip ad occaecat est velit. Enim laboris mollit reprehenderit cupidatat voluptate ipsum aliquip nostrud deserunt amet. Qui aliquip deserunt commodo pariatur qui anim. Aliquip excepteur reprehenderit in sint enim Lorem non Lorem pariatur adipisicing dolore ullamco incididunt ullamco.
 
-Cupidatat nostrud excepteur sunt exercitation excepteur dolor adipisicing. Aliqua et commodo do duis fugiat non consequat duis. Esse velit velit sit aute voluptate exercitation cupidatat velit cupidatat duis culpa non duis deserunt. Non voluptate et ea incididunt elit irure eu irure ullamco ea Lorem tempor. Veniam sint irure reprehenderit mollit nisi amet fugiat nulla duis. Nulla nostrud sint reprehenderit est enim dolore ipsum. Sint eu anim excepteur consectetur ipsum.
-
-- Serves: 6
-- Preparation time: 1 hour
+* Serves: 2
+* Preparation time: 20 minutes
