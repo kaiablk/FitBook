@@ -1,11 +1,15 @@
 ---
-title: Any Recipe
+title: One-pan salmon and vegetables dish
 date: 2019-10-19
 order: 1
 layout: recipe
 published: true
 ---
-Here is a new dish that can be made in just one pan. Try this simple salmon and vegetables recipe! Handful of ingredients, minimal cleanup - why not give it a go? So fire up your pan and get ready to enjoy a tasty and satisfying meal in just 20 minutes!
+Welcome to my first Fit Recipe! On my blog you will find tasty and Fit meal ideas that can be made from fresh ingredients. 
+
+Today, I prepared for you a recipe for a one-pan salmon and vegetables dish. It is a great option for an easy lunch and dinner that can be cooked under 20 minutes! Without further ado, let's get to it, shall we?
+
+![](../uploads/salmon.png)
 
 ## Ingredients
 
@@ -27,8 +31,6 @@ Here is a new dish that can be made in just one pan. Try this simple salmon and 
 7. Serve the salmon and vegetables on a plate.
 
 Enjoy your delicious and healthy one-pan salmon and vegetables!
-
-
 
 * Serves 1
 * Cooking time: 20 minutes
