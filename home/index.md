@@ -1,5 +1,5 @@
 ---
-title: Here is the name of your recipe site
+title: Kia's Fit Recipes - Easy Meals for Busy Lives
 coverimage: ../uploads/bookcover.jpg
 permalink: /
 layout: recipeshome
