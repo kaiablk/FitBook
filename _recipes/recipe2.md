@@ -1,32 +1,34 @@
 ---
-layout: recipe
 title: Any Recipe
 date: 2019-10-19
-published: true
 order: 1
+layout: recipe
+published: true
 ---
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here is a new dish that can be made in just one pan. Try this simple salmon and vegetables recipe! Handful of ingredients, minimal cleanup - why not give it a go? So fire up your pan and get ready to enjoy a tasty and satisfying meal in just 20 minutes!
 
 ## Ingredients
 
-- prehenderit deserunt veniam sunt et. 
-- Nulla ea est commodo minim quis. 
-- Amet cillum mollit cupidatat sunt tempor qui quis sunt ipsum.
+* 4 oz salmon fillet
+* 1/2 cup chopped vegetables of your choice (e.g. broccoli, bell pepper, zucchini, onion)
+* 1 tablespoon olive oil
+* Salt and pepper, to taste
+* 1/2 teaspoon dried herbs (e.g. thyme, rosemary, oregano)
+* 1/2 lemon
 
 ## Method
 
-Veniam culpa ea cillum est qui ullamco velit esse labore. Proident aute irure dolore aliqua dolor reprehenderit duis enim eiusmod. Magna voluptate fugiat nulla sunt nostrud sit. Sit cupidatat cillum culpa sint ex eu.
+1. Heat the olive oil in a non-stick pan over medium-high heat.
+2. Add the chopped vegetables to the pan and sauté for 5-7 minutes, or until tender.
+3. Move the vegetables to one side of the pan, and add the salmon fillet to the other side of the pan, skin side down.
+4. Sprinkle salt, pepper, and dried herbs over the salmon fillet and vegetables.
+5. Squeeze the lemon over the salmon and vegetables.
+6. Cover the pan with a lid and cook for 5-7 minutes, or until the salmon is cooked through and flakes easily with a fork.
+7. Serve the salmon and vegetables on a plate.
 
-Ullamco ullamco voluptate et nostrud aliquip nostrud cillum laboris qui ipsum cillum ad irure. Enim sunt proident cillum consectetur velit nostrud aliquip excepteur consequat officia laboris. Aute est qui exercitation voluptate irure dolor reprehenderit id laborum proident. Lorem eu proident est duis irure non est nostrud.
-
-Dolore commodo consequat proident adipisicing consectetur ut consequat et enim quis non excepteur cupidatat. Nostrud eiusmod aute proident in ex cupidatat enim. Nulla aliquip mollit incididunt aliqua velit do nisi. Ullamco magna ad culpa dolor sint mollit.
-
-Ullamco esse Lorem nostrud consectetur elit. Veniam do excepteur exercitation adipisicing aliquip pariatur aliqua tempor minim. Nisi aute ut elit ut labore esse amet veniam ad sint ullamco minim est. Amet id non velit quis sit aliquip reprehenderit nisi ipsum pariatur sint enim reprehenderit. Qui id proident Lorem duis do nulla enim laboris commodo eu in enim esse.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Enjoy your delicious and healthy one-pan salmon and vegetables!
 
 
-- Serves 10
-- Cooking time 3 hours 
+
+* Serves 1
+* Cooking time: 20 minutes
