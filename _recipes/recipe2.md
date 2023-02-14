@@ -9,7 +9,7 @@ Welcome to my first Fit Recipe! On my blog you will find tasty and Fit meal idea
 
 Today, I prepared for you a recipe for a one-pan salmon and vegetables dish. It is a great option for an easy lunch and dinner that can be cooked under 20 minutes! Without further ado, let's get to it, shall we?
 
-![](../uploads/salmon.png)
+![One-pan salmon and vegetables dish](../uploads/salmon.png "One-pan salmon and vegetables dish")
 
 ## Ingredients
 
