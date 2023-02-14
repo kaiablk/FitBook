@@ -4,7 +4,7 @@ date: 2023-02-14T15:51:53.033Z
 order: 4
 layout: recipe
 ---
-Here's a recipe for a one-pan shrimp and vegetable skillet that can be prepared in 20 minutes!
+As always, packed with nutrition, easy to prepare and ready with just a few simple ingredients. This dish features tender shrimp and a medley of fresh veggies, all cooked together in one pan for a simple and satisfying meal. Here's a recipe for a one-pan shrimp and vegetable skillet that can be prepared in 20 minutes!
 
 ![One-pan shrimp and vegetable skillet](../uploads/shrimp.png "One-pan shrimp and vegetable skillet")
 
@@ -32,8 +32,6 @@ Here's a recipe for a one-pan shrimp and vegetable skillet that can be prepared 
 8. Serve the shrimp and vegetables in a bowl.
 
 Enjoy your tasty and healthy one-pan shrimp and vegetable skillet!
-
-
 
 * Serves 1
 * Cooking time: 20 minutes
