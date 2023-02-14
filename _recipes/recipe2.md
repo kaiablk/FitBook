@@ -5,9 +5,9 @@ order: 1
 layout: recipe
 published: true
 ---
-Welcome to my first Fit Recipe! On my blog you will find tasty and Fit meal ideas that can be made from fresh ingredients. 
+Welcome to my first Fit Recipe! On my blog you will find tasty and fit meal ideas that can be made from fresh ingredients. Without sacrificing flavour or nutrition, I'm all about cooking wholesome meals that fit into your busy schedule.
 
-Today, I prepared for you a recipe for a one-pan salmon and vegetables dish. It is a great option for an easy lunch and dinner that can be cooked under 20 minutes! Without further ado, let's get to it, shall we?
+Today, I prepared for you a recipe for a one-pan salmon and vegetables dish. It contains a perfect balance of protein, healthy fats, and fiber and will leave you feeling satisfied and energized. It is a great option for an easy lunch and dinner that can be cooked under 20 minutes! Without further ado, let's get to it, shall we?
 
 ![One-pan salmon and vegetables dish](../uploads/salmon.png "One-pan salmon and vegetables dish")
 
