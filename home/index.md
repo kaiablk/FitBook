@@ -1,15 +1,15 @@
 ---
-layout: recipeshome
 title: Here is the name of your recipe site
-permalink: "/"
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-14T13:03:22.354Z
 ---
+Welcome to Kia's Fit Recipes! On my blog you will find tasty and fit meal ideas that can be made from fresh ingredients. 
 
-Here is an introduction to my recipe site
+**Home cooking made easy.**
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
+My recipes are all about saving your time and your gut. Busy schedule? Student life? Let me show an easy solution to healthy lunches and dinners. All the meals you will find here can be prepared in under 30 minutes with the use of the most basic kitchen utensils. No mess, no stress!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I want to show you that healthy recipes can be very easy to prepare, delicious and far from boring! Join me and let's create Fit meals together!
