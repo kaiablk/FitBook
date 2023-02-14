@@ -5,7 +5,7 @@ order: 2
 layout: recipe
 published: true
 ---
-Are you tired of recipes that take ages to prepare? We've all been there. Life can get busy, and sometimes it's just not possible to spend a lot of time cooking. That's where my one-pan quinoa and vegetable meal comes in! It's a perfect solution for a quick and healthy dish that only takes 20 minutes to prepare. With only a handful of ingredients and one pan, you'll have a delicious and nutritious meal. So why not try something new today and give this recipe a go? Trust me, your taste buds (and your schedule) will thank you!
+Are you tired of recipes that take ages to prepare? We've all been there. Life can get busy, and sometimes it's just not possible to spend a lot of time to cook and stay healthy. Don't worry, that's where my one-pan quinoa and vegetable meal comes in! It's a perfect solution for a quick and healthy dish that only takes 20 minutes to prepare. With only a handful of ingredients and one pan, you'll have a delicious and nutritious meal. So why not try something new today and give this recipe a go? Trust me, your taste buds (and your schedule) will thank you!
 
 ![One-pan quinoa and vegetable dish](../uploads/quinua.png "One-pan quinoa and vegetable dish")
 
@@ -31,5 +31,5 @@ Are you tired of recipes that take ages to prepare? We've all been there. Life c
 7. Arrange the quinoa and vegetables in a bowl and top with whichever garnishes you choose.
 8. Enjoy your delicious and nutritious one-pan meal!
 
-* Serves: 2
+* Serves: 1
 * Preparation time: 20 minutes
