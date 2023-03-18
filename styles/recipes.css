@@ -1,5 +1,9 @@
 /*! CSS bare bones for recipes site */
 
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
  html {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   -ms-text-size-adjust: 100%;
@@ -15,21 +19,39 @@
 /* the rest is up to you */
 
 h1{
+  font-family: 'Jost', sans-serif;
   color: brown;
   margin-bottom: 12px;
+
 }
 
-h2{color: blue;
+h2{color: rgb(195, 90, 48);
 margin: 50px 0 20px 0;}
 
-h1, h2{ 
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+nav{background-color: brown;;}
+
+a:link    { color:  brown; text-decoration: none; }
+a:visited { color:  brown; text-decoration: none; }
+a:hover   { color:  brown;; text-decoration: none; }
+a:active  { color:  brown; text-decoration: none; }
+
+
 
 p{
   color: brown;
   margin-bottom: 1em;
 }
+
+body{ background-image:url(https://i.ibb.co/qJ3cNNy/Blue-Green-Watercolor-Linktree-Background-2.png) ;
+  font-size: 20px;
+  font-family: 'Hind Siliguri', sans-serif;
+  background-position: center;
+  line-height: 1.5;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  }
+  
 
 main{
   width: 60%;
@@ -48,7 +70,7 @@ img{
 ul{
   margin-left: 12px;
   columns: 2;
-  column-rule: 1px solid blue; 
+  column-rule: 1px solid rgb(195, 90, 48); 
 }
 
 li{
@@ -57,10 +79,12 @@ li{
   list-style-position: inside;
 }
 
+.site-title{text-align: center ;}
 .caption {
   font-size: .8em;
-  float:right;
-  width: 60%;
+  /* float:right; */
+  width: 100%;
   margin-bottom: 20px;
   display: block;
+  text-align: center;
 }
