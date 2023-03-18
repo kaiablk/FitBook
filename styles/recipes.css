@@ -25,6 +25,10 @@ h1{
 
 }
 
+button{
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
 h2{color: rgb(195, 90, 48);
 margin: 50px 0 20px 0;}
 
@@ -137,3 +141,4 @@ li{
     padding: 10px;
     margin-left: 0;
   }
+}
