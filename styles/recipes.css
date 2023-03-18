@@ -100,3 +100,40 @@ li{
   display: block;
   text-align: center;
 }
+
+
+@media screen and (max-width: 700px) {
+
+  nav {
+  margin:0;
+  position: static;
+  width:100%;
+  }
+  
+  .home {
+    width: 80%;
+    margin: .5em auto;
+  }
+  nav ul {
+  font-size:1rem;
+  }
+  
+    main {
+    width: 100%;
+    padding: 1em;
+    border: none;
+    }
+  
+    body {
+    background-color: white;
+    padding-top: 5em;
+  }
+
+
+  
+  p:has(img) {
+    float:none;
+    width:100%;
+    padding: 10px;
+    margin-left: 0;
+  }
