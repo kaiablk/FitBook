@@ -28,7 +28,6 @@ h1{
 h2{color: rgb(195, 90, 48);
 margin: 50px 0 20px 0;}
 
-nav{background-color: brown;;}
 
 a:link    { color:  brown; text-decoration: none; }
 a:visited { color:  brown; text-decoration: none; }
@@ -52,7 +51,20 @@ body{ background-image:url(https://i.ibb.co/qJ3cNNy/Blue-Green-Watercolor-Linktr
   height: 100%;
   }
   
-
+  footer{text-align: center;}
+nav {
+  background-color: rgba(255, 255, 255, 0.84);
+  display: block;
+  /* border: 1px solid red; */
+  width: 15%;
+  padding: 10px;
+  margin: 0;
+  min-width: 120px;
+  position:fixed;
+  top:6em;
+  left:0;
+  z-index: 12;
+}
 main{
   width: 60%;
   max-width: 850px;
