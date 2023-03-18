@@ -1,6 +1,6 @@
 ---
 title: Kia's Fit Recipes - Easy Meals for Busy Lives
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/haulm-books-inc.-1-.jpg
 permalink: /
 layout: recipeshome
 published: true
